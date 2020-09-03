@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+Screen Shots
+![](/screenshots/splash.jpg)
+![](/screenshots/login.jpg)
+![](/screenshots/signup.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
